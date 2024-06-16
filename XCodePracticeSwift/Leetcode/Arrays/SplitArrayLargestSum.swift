@@ -37,10 +37,10 @@ import Foundation
 class SplitArrayLargestSum {
 
     static func test() {
-        let splitArrayLargestSum = SplitArrayLargestSum()
-        print("===< SplitArrayLargestSum >===-----------------------")
-        print("nums = [7, 2, 5, 10, 8], k = 2: \(splitArrayLargestSum.splitArray([7, 2, 5, 10, 8], 2))")
-        print("nums = [1, 2, 3, 4, 5], k = 2: \(splitArrayLargestSum.splitArray([1, 2, 3, 4, 5], 2))")
+        let instance = SplitArrayLargestSum()
+        print("===< \(instance.self) >===-----------------------")
+        print("nums = [7, 2, 5, 10, 8], k = 2: \(instance.splitArray([7, 2, 5, 10, 8], 2))")
+        print("nums = [1, 2, 3, 4, 5], k = 2: \(instance.splitArray([1, 2, 3, 4, 5], 2))")
     }
     
     func splitArray(_ nums: [Int], _ k: Int) -> Int {

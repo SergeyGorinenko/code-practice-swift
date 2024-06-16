@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		15006E7B2C1D57070028075E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15006E7A2C1D57070028075E /* main.swift */; };
 		158184CC2C1D57D500EF378D /* SplitArrayLargestSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 158184CB2C1D57D500EF378D /* SplitArrayLargestSum.swift */; };
+		158184CF2C1D7D6B00EF378D /* StringToIntegerAtoI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 158184CE2C1D7D6B00EF378D /* StringToIntegerAtoI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,7 @@
 		15006E7A2C1D57070028075E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		158184C82C1D574700EF378D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		158184CB2C1D57D500EF378D /* SplitArrayLargestSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitArrayLargestSum.swift; sourceTree = "<group>"; };
+		158184CE2C1D7D6B00EF378D /* StringToIntegerAtoI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringToIntegerAtoI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 		158184C92C1D575600EF378D /* Leetcode */ = {
 			isa = PBXGroup;
 			children = (
+				158184CD2C1D7CD800EF378D /* Strings */,
 				158184CA2C1D576600EF378D /* Arrays */,
 			);
 			path = Leetcode;
@@ -81,6 +84,14 @@
 				158184CB2C1D57D500EF378D /* SplitArrayLargestSum.swift */,
 			);
 			path = Arrays;
+			sourceTree = "<group>";
+		};
+		158184CD2C1D7CD800EF378D /* Strings */ = {
+			isa = PBXGroup;
+			children = (
+				158184CE2C1D7D6B00EF378D /* StringToIntegerAtoI.swift */,
+			);
+			path = Strings;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -142,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				15006E7B2C1D57070028075E /* main.swift in Sources */,
+				158184CF2C1D7D6B00EF378D /* StringToIntegerAtoI.swift in Sources */,
 				158184CC2C1D57D500EF378D /* SplitArrayLargestSum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
