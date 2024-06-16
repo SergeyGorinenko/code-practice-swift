@@ -10,3 +10,5 @@ import Foundation
 SplitArrayLargestSum.test()
 
 StringToIntegerAtoI.test()
+
+MergeKSortedLists.test()
