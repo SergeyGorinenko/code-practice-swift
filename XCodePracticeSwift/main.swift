@@ -18,3 +18,5 @@ SumOfTwoIntegers.test()
 ClimbingStairs.test()
 
 ReserveLinkedList.test()
+
+MaximumDepthOfBinaryTree.test()

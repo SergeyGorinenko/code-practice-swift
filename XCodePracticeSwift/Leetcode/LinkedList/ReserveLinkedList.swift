@@ -41,11 +41,11 @@ class ReserveLinkedList {
     }
     
     func reverseList(_ head: ListNode?) -> ListNode? {
-        guard var head = head else { return nil }
+        guard let head = head else { return nil }
         
         if let next = head.next {
             head.next = nil
-            var tail = reverseList(next)
+            let tail = reverseList(next)
             next.next = head
             return tail
         }
