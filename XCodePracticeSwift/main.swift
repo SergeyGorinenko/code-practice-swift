@@ -16,3 +16,5 @@ MergeKSortedLists.test()
 SumOfTwoIntegers.test()
 
 ClimbingStairs.test()
+
+ReserveLinkedList.test()
