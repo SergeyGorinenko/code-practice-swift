@@ -14,3 +14,5 @@ StringToIntegerAtoI.test()
 MergeKSortedLists.test()
 
 SumOfTwoIntegers.test()
+
+ClimbingStairs.test()
