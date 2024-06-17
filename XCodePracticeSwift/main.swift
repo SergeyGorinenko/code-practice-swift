@@ -12,3 +12,5 @@ SplitArrayLargestSum.test()
 StringToIntegerAtoI.test()
 
 MergeKSortedLists.test()
+
+SumOfTwoIntegers.test()

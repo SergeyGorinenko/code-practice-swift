@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		15006E7B2C1D57070028075E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15006E7A2C1D57070028075E /* main.swift */; };
 		150E80142C1EBD2D00B815DC /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 150E80132C1EBD2D00B815DC /* ListNode.swift */; };
+		156834952C1EDE4300F0186A /* SumOfTwoIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 156834942C1EDE4300F0186A /* SumOfTwoIntegers.swift */; };
 		158184CC2C1D57D500EF378D /* SplitArrayLargestSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 158184CB2C1D57D500EF378D /* SplitArrayLargestSum.swift */; };
 		158184CF2C1D7D6B00EF378D /* StringToIntegerAtoI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 158184CE2C1D7D6B00EF378D /* StringToIntegerAtoI.swift */; };
 		15FD268E2C1EAE2A00AAC39D /* MergeKSortedLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15FD268D2C1EAE2A00AAC39D /* MergeKSortedLists.swift */; };
@@ -30,6 +31,7 @@
 		15006E772C1D57070028075E /* XCodePracticeSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = XCodePracticeSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		15006E7A2C1D57070028075E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		150E80132C1EBD2D00B815DC /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
+		156834942C1EDE4300F0186A /* SumOfTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfTwoIntegers.swift; sourceTree = "<group>"; };
 		158184C82C1D574700EF378D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		158184CB2C1D57D500EF378D /* SplitArrayLargestSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitArrayLargestSum.swift; sourceTree = "<group>"; };
 		158184CE2C1D7D6B00EF378D /* StringToIntegerAtoI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringToIntegerAtoI.swift; sourceTree = "<group>"; };
@@ -81,13 +83,22 @@
 			path = List;
 			sourceTree = "<group>";
 		};
+		156834932C1EDE2700F0186A /* Binary */ = {
+			isa = PBXGroup;
+			children = (
+				156834942C1EDE4300F0186A /* SumOfTwoIntegers.swift */,
+			);
+			path = Binary;
+			sourceTree = "<group>";
+		};
 		158184C92C1D575600EF378D /* Leetcode */ = {
 			isa = PBXGroup;
 			children = (
-				150E80122C1EBD2100B815DC /* List */,
-				15FD268C2C1EADE800AAC39D /* Heap */,
-				158184CD2C1D7CD800EF378D /* Strings */,
 				158184CA2C1D576600EF378D /* Arrays */,
+				156834932C1EDE2700F0186A /* Binary */,
+				15FD268C2C1EADE800AAC39D /* Heap */,
+				150E80122C1EBD2100B815DC /* List */,
+				158184CD2C1D7CD800EF378D /* Strings */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -176,6 +187,7 @@
 			files = (
 				15006E7B2C1D57070028075E /* main.swift in Sources */,
 				150E80142C1EBD2D00B815DC /* ListNode.swift in Sources */,
+				156834952C1EDE4300F0186A /* SumOfTwoIntegers.swift in Sources */,
 				15FD268E2C1EAE2A00AAC39D /* MergeKSortedLists.swift in Sources */,
 				158184CF2C1D7D6B00EF378D /* StringToIntegerAtoI.swift in Sources */,
 				158184CC2C1D57D500EF378D /* SplitArrayLargestSum.swift in Sources */,

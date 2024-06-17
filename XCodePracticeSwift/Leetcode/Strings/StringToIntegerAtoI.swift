@@ -89,14 +89,12 @@ class StringToIntegerAtoI {
         print("s = ' 0000000000012345678': '\(instance.myAtoi(" 0000000000012345678"))'")
         print("s = '21474836460': '\(instance.myAtoi("21474836460"))'")
         print("s = '+0 123': '\(instance.myAtoi("+0 123"))'")
-        
-        
     }
     
     func myAtoi(_ s: String) -> Int {
         var resultString: String = ""
         var sign: String = ""
-        var s = String(s.trimmingPrefix { $0 == " " })
+        let s = String(s.trimmingPrefix { $0 == " " })
         for char in s {
             if "-+".contains(char), sign.isEmpty, resultString.isEmpty {
                 sign = String(char)
@@ -112,7 +110,7 @@ class StringToIntegerAtoI {
             if resultString.count > 10 {
                 return Int(Int32.min)
             } else {
-                var resultInt: Int = -(Int(resultString) ?? 0)
+                let resultInt: Int = -(Int(resultString) ?? 0)
 
                 if resultInt <= Int(Int32.min) {
                     return Int(Int32.min)
@@ -124,7 +122,7 @@ class StringToIntegerAtoI {
             if resultString.count > 10 {
                 return Int(Int32.max)
             } else {
-                var resultInt: Int = Int(resultString) ?? 0
+                let resultInt: Int = Int(resultString) ?? 0
 
                 if resultInt >= Int(Int32.max) {
                     return Int(Int32.max)
