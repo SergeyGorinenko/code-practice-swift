@@ -29,7 +29,7 @@ class MaximumDepthOfBinaryTree {
 
     static func test() {
         let instance = MaximumDepthOfBinaryTree()
-        print("===< \(instance.self) >===-----------------------")
+        print("===< \(self.self) >===-----------------------")
 
         let tree1 = TreeNode.tree(with: [3, 9, 20, nil, nil, 15, 7])
         print("Depth[3, 9, 20, nil, nil, 15, 7]: \(instance.maxDepth(tree1))")

@@ -28,7 +28,7 @@ class SumOfTwoIntegers {
     
     static func test() {
         let instance = SumOfTwoIntegers()
-        print("===< \(instance.self) >===-----------------------")
+        print("===< \(self.self) >===-----------------------")
         print("a = 1, b = 2: \(instance.getSum(1, 2))")
         print("a = 2, b = 3: \(instance.getSum(2, 3))")
     }

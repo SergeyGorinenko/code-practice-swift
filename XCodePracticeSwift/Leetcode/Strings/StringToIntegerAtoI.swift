@@ -79,7 +79,7 @@ class StringToIntegerAtoI {
     
     static func test() {
         let instance = StringToIntegerAtoI()
-        print("===< \(instance.self) >===-----------------------")
+        print("===< \(self.self) >===-----------------------")
         print("s = '42': '\(instance.myAtoi("42"))'")
         print("s = ' —042': '\(instance.myAtoi(" -042"))'")
         print("s = '1337c0d3': '\(instance.myAtoi("1337c0d3"))'")

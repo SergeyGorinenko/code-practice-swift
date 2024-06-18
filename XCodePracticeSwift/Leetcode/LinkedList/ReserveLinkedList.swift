@@ -31,7 +31,7 @@ class ReserveLinkedList {
 
     static func test() {
         let instance = ReserveLinkedList()
-        print("===< \(instance.self) >===-----------------------")
+        print("===< \(self.self) >===-----------------------")
 
         let reversed1 = instance.reverseList(ListNode.list(with: [1, 2, 3, 4, 5]))
         reversed1?.printNode()

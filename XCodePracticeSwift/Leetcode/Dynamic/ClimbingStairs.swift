@@ -35,7 +35,7 @@ class ClimbingStairs {
 
     static func test() {
         let instance = ClimbingStairs()
-        print("===< \(instance.self) >===-----------------------")
+        print("===< \(self.self) >===-----------------------")
         print("n = 2: \(instance.climbStairs(2))")
         print("n = 3: \(instance.climbStairs(3))")
         print("n = 4: \(instance.climbStairs(4))")

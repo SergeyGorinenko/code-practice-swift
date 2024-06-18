@@ -22,3 +22,5 @@ ReserveLinkedList.test()
 MaximumDepthOfBinaryTree.test()
 
 CourseSchedule.test()
+
+SameTree.test()

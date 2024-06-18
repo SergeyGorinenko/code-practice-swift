@@ -38,7 +38,7 @@ class SplitArrayLargestSum {
 
     static func test() {
         let instance = SplitArrayLargestSum()
-        print("===< \(instance.self) >===-----------------------")
+        print("===< \(self.self) >===-----------------------")
         print("nums = [7, 2, 5, 10, 8], k = 2: \(instance.splitArray([7, 2, 5, 10, 8], 2))")
         print("nums = [1, 2, 3, 4, 5], k = 2: \(instance.splitArray([1, 2, 3, 4, 5], 2))")
     }

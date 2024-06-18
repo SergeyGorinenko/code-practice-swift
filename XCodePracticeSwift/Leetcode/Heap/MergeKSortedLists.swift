@@ -47,7 +47,7 @@ class MergeKSortedLists {
     
     static func test() {
         let instance = MergeKSortedLists()
-        print("===< \(instance.self) >===-----------------------")
+        print("===< \(self.self) >===-----------------------")
         
         let lists1 = [
             ListNode.list(with: [1, 4, 5])!,
