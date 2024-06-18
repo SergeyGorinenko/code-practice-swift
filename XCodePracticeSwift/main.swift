@@ -20,3 +20,5 @@ ClimbingStairs.test()
 ReserveLinkedList.test()
 
 MaximumDepthOfBinaryTree.test()
+
+CourseSchedule.test()
