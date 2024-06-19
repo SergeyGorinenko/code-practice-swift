@@ -24,3 +24,5 @@ MaximumDepthOfBinaryTree.test()
 CourseSchedule.test()
 
 SameTree.test()
+
+TwoSum.test()
