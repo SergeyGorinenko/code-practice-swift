@@ -40,10 +40,11 @@ import Foundation
 
 // MARK: - Strings
 
-LongestSubstringWithoutRepeatingCharacters.test()
+//LongestSubstringWithoutRepeatingCharacters.test()
 //StringToIntegerAtoI.test()
 
 // MARK: - Tree
 
+InvertBinaryTree.test()
 //MaximumDepthOfBinaryTree.test()
 //SameTree.test()
