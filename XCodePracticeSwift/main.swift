@@ -7,22 +7,43 @@
 
 import Foundation
 
-SplitArrayLargestSum.test()
+// MARK: - Arrays
 
-StringToIntegerAtoI.test()
+//SplitArrayLargestSum.test()
+//TwoSum.test()
 
-MergeKSortedLists.test()
 
-SumOfTwoIntegers.test()
+// MARK: - Binary
 
-ClimbingStairs.test()
+//SumOfTwoIntegers.test()
 
-ReserveLinkedList.test()
 
-MaximumDepthOfBinaryTree.test()
+// MARK: - Dynamic
 
-CourseSchedule.test()
+//ClimbingStairs.test()
 
-SameTree.test()
 
-TwoSum.test()
+// MARK: - Graph
+
+//CourseSchedule.test()
+
+
+// MARK: - Heap
+
+//MergeKSortedLists.test()
+
+
+// MARK: - Linked List
+
+//ReserveLinkedList.test()
+
+
+// MARK: - Strings
+
+LongestSubstringWithoutRepeatingCharacters.test()
+//StringToIntegerAtoI.test()
+
+// MARK: - Tree
+
+//MaximumDepthOfBinaryTree.test()
+//SameTree.test()
