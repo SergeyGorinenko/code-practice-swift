@@ -9,6 +9,7 @@ import Foundation
 
 // MARK: - Arrays
 
+BestTimeToBuyAndSellStock.test()
 //SplitArrayLargestSum.test()
 //TwoSum.test()
 
@@ -45,6 +46,6 @@ import Foundation
 
 // MARK: - Tree
 
-InvertBinaryTree.test()
+//InvertBinaryTree.test()
 //MaximumDepthOfBinaryTree.test()
 //SameTree.test()
