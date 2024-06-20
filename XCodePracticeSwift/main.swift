@@ -10,6 +10,7 @@ import Foundation
 // MARK: - Arrays
 
 //BestTimeToBuyAndSellStock.test()
+ContainsDuplicate.test()
 //SplitArrayLargestSum.test()
 //TwoSum.test()
 
@@ -27,7 +28,7 @@ import Foundation
 // MARK: - Graph
 
 //CourseSchedule.test()
-PacificAtlanticWaterFlow.test()
+//PacificAtlanticWaterFlow.test()
 
 // MARK: - Heap
 
