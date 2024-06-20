@@ -10,7 +10,7 @@ import Foundation
 // MARK: - Arrays
 
 //BestTimeToBuyAndSellStock.test()
-ContainsDuplicate.test()
+//ContainsDuplicate.test()
 //SplitArrayLargestSum.test()
 //TwoSum.test()
 
@@ -33,6 +33,11 @@ ContainsDuplicate.test()
 // MARK: - Heap
 
 //MergeKSortedLists.test()
+
+
+// MARK: - Inteval
+
+InsertInterval.test()
 
 
 // MARK: - Linked List
