@@ -45,9 +45,14 @@ import Foundation
 //ReserveLinkedList.test()
 
 
+// MARK: - Matrix
+
+SetMatrixZeroes.test()
+
+
 // MARK: - Strings
 
-LongestRepeatingCharacterReplacement.test()
+//LongestRepeatingCharacterReplacement.test()
 //LongestSubstringWithoutRepeatingCharacters.test()
 //StringToIntegerAtoI.test()
 
