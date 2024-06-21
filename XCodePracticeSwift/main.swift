@@ -23,7 +23,7 @@ import Foundation
 // MARK: - Dynamic
 
 //ClimbingStairs.test()
-LongestIncreasingSubsequence.test()
+//LongestIncreasingSubsequence.test()
 
 // MARK: - Graph
 
@@ -62,3 +62,4 @@ LongestIncreasingSubsequence.test()
 //InvertBinaryTree.test()
 //MaximumDepthOfBinaryTree.test()
 //SameTree.test()
+SubtreeOfAnotherTree.test()

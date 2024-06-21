@@ -26,6 +26,7 @@
 		15BCD8332C25597700D737FB /* LongestRepeatingCharacterReplacement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15BCD8322C25597700D737FB /* LongestRepeatingCharacterReplacement.swift */; };
 		15BCD8362C25684700D737FB /* SetMatrixZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15BCD8352C25684700D737FB /* SetMatrixZeroes.swift */; };
 		15BCD8382C25E6BF00D737FB /* LongestIncreasingSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15BCD8372C25E6BF00D737FB /* LongestIncreasingSubsequence.swift */; };
+		15BCD83A2C2609F900D737FB /* SubtreeOfAnotherTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15BCD8392C2609F900D737FB /* SubtreeOfAnotherTree.swift */; };
 		15C3DDFB2C2205280035E5F2 /* SameTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C3DDFA2C2205280035E5F2 /* SameTree.swift */; };
 		15C3DDFD2C220FE90035E5F2 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C3DDFC2C220FE90035E5F2 /* TwoSum.swift */; };
 		15CDCF7D2C214E4C00C30B09 /* CourseSchedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15CDCF7C2C214E4C00C30B09 /* CourseSchedule.swift */; };
@@ -67,6 +68,7 @@
 		15BCD8322C25597700D737FB /* LongestRepeatingCharacterReplacement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestRepeatingCharacterReplacement.swift; sourceTree = "<group>"; };
 		15BCD8352C25684700D737FB /* SetMatrixZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetMatrixZeroes.swift; sourceTree = "<group>"; };
 		15BCD8372C25E6BF00D737FB /* LongestIncreasingSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestIncreasingSubsequence.swift; sourceTree = "<group>"; };
+		15BCD8392C2609F900D737FB /* SubtreeOfAnotherTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubtreeOfAnotherTree.swift; sourceTree = "<group>"; };
 		15C3DDFA2C2205280035E5F2 /* SameTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SameTree.swift; sourceTree = "<group>"; };
 		15C3DDFC2C220FE90035E5F2 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		15CDCF7C2C214E4C00C30B09 /* CourseSchedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseSchedule.swift; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 				15589F572C2283DF00FBA551 /* InvertBinaryTree.swift */,
 				152669562C1FCD9700942D93 /* MaximumDepthOfBinaryTree.swift */,
 				15C3DDFA2C2205280035E5F2 /* SameTree.swift */,
+				15BCD8392C2609F900D737FB /* SubtreeOfAnotherTree.swift */,
 			);
 			path = Tree;
 			sourceTree = "<group>";
@@ -300,6 +303,7 @@
 				156834952C1EDE4300F0186A /* SumOfTwoIntegers.swift in Sources */,
 				15FD268E2C1EAE2A00AAC39D /* MergeKSortedLists.swift in Sources */,
 				158184CF2C1D7D6B00EF378D /* StringToIntegerAtoI.swift in Sources */,
+				15BCD83A2C2609F900D737FB /* SubtreeOfAnotherTree.swift in Sources */,
 				15BCD82F2C24D48600D737FB /* InsertInterval.swift in Sources */,
 				15C3DDFD2C220FE90035E5F2 /* TwoSum.swift in Sources */,
 				15CDCF7D2C214E4C00C30B09 /* CourseSchedule.swift in Sources */,
