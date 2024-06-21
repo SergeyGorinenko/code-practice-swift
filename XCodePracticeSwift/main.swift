@@ -47,12 +47,13 @@ import Foundation
 
 // MARK: - Strings
 
+LongestRepeatingCharacterReplacement.test()
 //LongestSubstringWithoutRepeatingCharacters.test()
 //StringToIntegerAtoI.test()
 
 // MARK: - Tree
 
-BinaryTreeLevelOrderTraversal.test()
+//BinaryTreeLevelOrderTraversal.test()
 //InvertBinaryTree.test()
 //MaximumDepthOfBinaryTree.test()
 //SameTree.test()
