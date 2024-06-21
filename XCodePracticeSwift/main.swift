@@ -37,7 +37,7 @@ import Foundation
 
 // MARK: - Inteval
 
-InsertInterval.test()
+//InsertInterval.test()
 
 
 // MARK: - Linked List
@@ -52,6 +52,7 @@ InsertInterval.test()
 
 // MARK: - Tree
 
+BinaryTreeLevelOrderTraversal.test()
 //InvertBinaryTree.test()
 //MaximumDepthOfBinaryTree.test()
 //SameTree.test()
