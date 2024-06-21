@@ -23,7 +23,7 @@ import Foundation
 // MARK: - Dynamic
 
 //ClimbingStairs.test()
-
+LongestIncreasingSubsequence.test()
 
 // MARK: - Graph
 
@@ -47,7 +47,7 @@ import Foundation
 
 // MARK: - Matrix
 
-SetMatrixZeroes.test()
+//SetMatrixZeroes.test()
 
 
 // MARK: - Strings
