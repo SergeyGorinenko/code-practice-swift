@@ -24,11 +24,12 @@ import Foundation
 
 //ClimbingStairs.test()
 //LongestIncreasingSubsequence.test()
-WordBreak.test()
+//WordBreak.test()
 
 // MARK: - Graph
 
 //CourseSchedule.test()
+LongestConsecutiveSequence.test()
 //PacificAtlanticWaterFlow.test()
 
 // MARK: - Heap
