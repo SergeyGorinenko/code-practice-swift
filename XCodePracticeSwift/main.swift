@@ -24,6 +24,7 @@ import Foundation
 
 //ClimbingStairs.test()
 //LongestIncreasingSubsequence.test()
+WordBreak.test()
 
 // MARK: - Graph
 
@@ -63,4 +64,4 @@ import Foundation
 //MaximumDepthOfBinaryTree.test()
 //SameTree.test()
 //SubtreeOfAnotherTree.test()
-ValidateBinarySearchTree.test()
+//ValidateBinarySearchTree.test()
