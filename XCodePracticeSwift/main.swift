@@ -62,4 +62,5 @@ import Foundation
 //InvertBinaryTree.test()
 //MaximumDepthOfBinaryTree.test()
 //SameTree.test()
-SubtreeOfAnotherTree.test()
+//SubtreeOfAnotherTree.test()
+ValidateBinarySearchTree.test()
