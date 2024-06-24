@@ -29,7 +29,7 @@ import Foundation
 // MARK: - Graph
 
 //CourseSchedule.test()
-LongestConsecutiveSequence.test()
+//LongestConsecutiveSequence.test()
 //PacificAtlanticWaterFlow.test()
 
 // MARK: - Heap
@@ -40,6 +40,7 @@ LongestConsecutiveSequence.test()
 // MARK: - Inteval
 
 //InsertInterval.test()
+NonOverlappingIntervals.test()
 
 
 // MARK: - Linked List
