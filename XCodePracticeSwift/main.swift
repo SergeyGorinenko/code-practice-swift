@@ -60,11 +60,13 @@ import Foundation
 //LongestSubstringWithoutRepeatingCharacters.test()
 //StringToIntegerAtoI.test()
 
+
 // MARK: - Tree
 
 //BinaryTreeLevelOrderTraversal.test()
+ImplementTriePrefixTree.test()
 //InvertBinaryTree.test()
-LowestCommonAncestorOfABinarySearchTree.test()
+//LowestCommonAncestorOfABinarySearchTree.test()
 //MaximumDepthOfBinaryTree.test()
 //SameTree.test()
 //SubtreeOfAnotherTree.test()
