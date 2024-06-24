@@ -45,7 +45,7 @@ import Foundation
 
 // MARK: - Linked List
 
-ReorderList.test()
+//ReorderList.test()
 //ReserveLinkedList.test()
 
 
@@ -64,6 +64,7 @@ ReorderList.test()
 
 //BinaryTreeLevelOrderTraversal.test()
 //InvertBinaryTree.test()
+LowestCommonAncestorOfABinarySearchTree.test()
 //MaximumDepthOfBinaryTree.test()
 //SameTree.test()
 //SubtreeOfAnotherTree.test()

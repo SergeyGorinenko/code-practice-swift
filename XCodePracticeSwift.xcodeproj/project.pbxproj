@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		15006E7B2C1D57070028075E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15006E7A2C1D57070028075E /* main.swift */; };
+		1501BDD12C2A0A8500D3E27B /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1501BDD02C2A0A8500D3E27B /* LowestCommonAncestorOfABinarySearchTree.swift */; };
 		150E80142C1EBD2D00B815DC /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 150E80132C1EBD2D00B815DC /* ListNode.swift */; };
 		150EFEE32C27FE260037AD00 /* ValidateBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 150EFEE22C27FE260037AD00 /* ValidateBinarySearchTree.swift */; };
 		150EFEE52C28AD4A0037AD00 /* WordBreak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 150EFEE42C28AD4A0037AD00 /* WordBreak.swift */; };
@@ -54,6 +55,7 @@
 /* Begin PBXFileReference section */
 		15006E772C1D57070028075E /* XCodePracticeSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = XCodePracticeSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		15006E7A2C1D57070028075E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		1501BDD02C2A0A8500D3E27B /* LowestCommonAncestorOfABinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LowestCommonAncestorOfABinarySearchTree.swift; sourceTree = "<group>"; };
 		150E80132C1EBD2D00B815DC /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
 		150EFEE22C27FE260037AD00 /* ValidateBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateBinarySearchTree.swift; sourceTree = "<group>"; };
 		150EFEE42C28AD4A0037AD00 /* WordBreak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreak.swift; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 			children = (
 				15BCD8302C25230300D737FB /* BinaryTreeLevelOrderTraversal.swift */,
 				15589F572C2283DF00FBA551 /* InvertBinaryTree.swift */,
+				1501BDD02C2A0A8500D3E27B /* LowestCommonAncestorOfABinarySearchTree.swift */,
 				152669562C1FCD9700942D93 /* MaximumDepthOfBinaryTree.swift */,
 				15C3DDFA2C2205280035E5F2 /* SameTree.swift */,
 				15BCD8392C2609F900D737FB /* SubtreeOfAnotherTree.swift */,
@@ -313,6 +316,7 @@
 				152669542C1FC0D600942D93 /* ReserveLinkedList.swift in Sources */,
 				15BCD82A2C24A6C800D737FB /* PacificAtlanticWaterFlow.swift in Sources */,
 				150E80142C1EBD2D00B815DC /* ListNode.swift in Sources */,
+				1501BDD12C2A0A8500D3E27B /* LowestCommonAncestorOfABinarySearchTree.swift in Sources */,
 				15589F5A2C22D42500FBA551 /* BestTimeToBuyAndSellStock.swift in Sources */,
 				150EFEE72C28B9060037AD00 /* LongestConsecutiveSequence.swift in Sources */,
 				152669592C1FCDF900942D93 /* TreeNode.swift in Sources */,
