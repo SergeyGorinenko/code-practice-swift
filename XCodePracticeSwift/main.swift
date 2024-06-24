@@ -40,11 +40,12 @@ import Foundation
 // MARK: - Inteval
 
 //InsertInterval.test()
-NonOverlappingIntervals.test()
+//NonOverlappingIntervals.test()
 
 
 // MARK: - Linked List
 
+ReorderList.test()
 //ReserveLinkedList.test()
 
 
