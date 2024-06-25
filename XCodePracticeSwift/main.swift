@@ -64,7 +64,8 @@ import Foundation
 // MARK: - Tree
 
 //BinaryTreeLevelOrderTraversal.test()
-ImplementTriePrefixTree.test()
+DesignAddAndSearchWordsDataStructure.test()
+//ImplementTriePrefixTree.test()
 //InvertBinaryTree.test()
 //LowestCommonAncestorOfABinarySearchTree.test()
 //MaximumDepthOfBinaryTree.test()

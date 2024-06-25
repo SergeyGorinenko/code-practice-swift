@@ -14,6 +14,8 @@
 		150EFEE32C27FE260037AD00 /* ValidateBinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 150EFEE22C27FE260037AD00 /* ValidateBinarySearchTree.swift */; };
 		150EFEE52C28AD4A0037AD00 /* WordBreak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 150EFEE42C28AD4A0037AD00 /* WordBreak.swift */; };
 		150EFEE72C28B9060037AD00 /* LongestConsecutiveSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 150EFEE62C28B9060037AD00 /* LongestConsecutiveSequence.swift */; };
+		151580832C2B6EEF00AA22E7 /* TrieNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151580822C2B6EEF00AA22E7 /* TrieNode.swift */; };
+		151580852C2B6F2D00AA22E7 /* DesignAddAndSearchWordsDataStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 151580842C2B6F2D00AA22E7 /* DesignAddAndSearchWordsDataStructure.swift */; };
 		152669512C1FB9ED00942D93 /* ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 152669502C1FB9ED00942D93 /* ClimbingStairs.swift */; };
 		152669542C1FC0D600942D93 /* ReserveLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 152669532C1FC0D600942D93 /* ReserveLinkedList.swift */; };
 		152669572C1FCD9700942D93 /* MaximumDepthOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 152669562C1FCD9700942D93 /* MaximumDepthOfBinaryTree.swift */; };
@@ -62,6 +64,8 @@
 		150EFEE22C27FE260037AD00 /* ValidateBinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateBinarySearchTree.swift; sourceTree = "<group>"; };
 		150EFEE42C28AD4A0037AD00 /* WordBreak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordBreak.swift; sourceTree = "<group>"; };
 		150EFEE62C28B9060037AD00 /* LongestConsecutiveSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongestConsecutiveSequence.swift; sourceTree = "<group>"; };
+		151580822C2B6EEF00AA22E7 /* TrieNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrieNode.swift; sourceTree = "<group>"; };
+		151580842C2B6F2D00AA22E7 /* DesignAddAndSearchWordsDataStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignAddAndSearchWordsDataStructure.swift; sourceTree = "<group>"; };
 		152669502C1FB9ED00942D93 /* ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimbingStairs.swift; sourceTree = "<group>"; };
 		152669532C1FC0D600942D93 /* ReserveLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReserveLinkedList.swift; sourceTree = "<group>"; };
 		152669562C1FCD9700942D93 /* MaximumDepthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaximumDepthOfBinaryTree.swift; sourceTree = "<group>"; };
@@ -133,6 +137,7 @@
 				15CDCF7E2C21676A00C30B09 /* Graph.swift */,
 				150E80132C1EBD2D00B815DC /* ListNode.swift */,
 				152669582C1FCDF900942D93 /* TreeNode.swift */,
+				151580822C2B6EEF00AA22E7 /* TrieNode.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -160,6 +165,7 @@
 			isa = PBXGroup;
 			children = (
 				15BCD8302C25230300D737FB /* BinaryTreeLevelOrderTraversal.swift */,
+				151580842C2B6F2D00AA22E7 /* DesignAddAndSearchWordsDataStructure.swift */,
 				1501BDD42C2A1D8300D3E27B /* ImplementTriePrefixTree.swift */,
 				15589F572C2283DF00FBA551 /* InvertBinaryTree.swift */,
 				1501BDD02C2A0A8500D3E27B /* LowestCommonAncestorOfABinarySearchTree.swift */,
@@ -312,6 +318,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				15CDCF7F2C21676A00C30B09 /* Graph.swift in Sources */,
+				151580832C2B6EEF00AA22E7 /* TrieNode.swift in Sources */,
 				15006E7B2C1D57070028075E /* main.swift in Sources */,
 				150EFEE32C27FE260037AD00 /* ValidateBinarySearchTree.swift in Sources */,
 				15BCD82C2C24CEDB00D737FB /* ContainsDuplicate.swift in Sources */,
@@ -327,6 +334,7 @@
 				15C3DDFB2C2205280035E5F2 /* SameTree.swift in Sources */,
 				156834952C1EDE4300F0186A /* SumOfTwoIntegers.swift in Sources */,
 				15FD268E2C1EAE2A00AAC39D /* MergeKSortedLists.swift in Sources */,
+				151580852C2B6F2D00AA22E7 /* DesignAddAndSearchWordsDataStructure.swift in Sources */,
 				158184CF2C1D7D6B00EF378D /* StringToIntegerAtoI.swift in Sources */,
 				150EFEE52C28AD4A0037AD00 /* WordBreak.swift in Sources */,
 				15BCD83A2C2609F900D737FB /* SubtreeOfAnotherTree.swift in Sources */,
