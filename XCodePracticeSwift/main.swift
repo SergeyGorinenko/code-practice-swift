@@ -7,6 +7,16 @@
 
 import Foundation
 
+// MARK: - Algorithms
+
+BubbleSort.test()
+HeapSort.test()
+InsertionSort.test()
+MergeSort.test()
+SelectionSort.test()
+QuickSort.test()
+
+
 // MARK: - Arrays
 
 //BestTimeToBuyAndSellStock.test()
@@ -64,7 +74,7 @@ import Foundation
 // MARK: - Tree
 
 //BinaryTreeLevelOrderTraversal.test()
-DesignAddAndSearchWordsDataStructure.test()
+//DesignAddAndSearchWordsDataStructure.test()
 //ImplementTriePrefixTree.test()
 //InvertBinaryTree.test()
 //LowestCommonAncestorOfABinarySearchTree.test()
