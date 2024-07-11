@@ -9,12 +9,13 @@ import Foundation
 
 // MARK: - Algorithms
 
-BubbleSort.test()
-HeapSort.test()
-InsertionSort.test()
-MergeSort.test()
-SelectionSort.test()
-QuickSort.test()
+//BubbleSort.test()
+//HeapSort.test()
+//InsertionSort.test()
+//MergeSort.test()
+ProductOfArrayExceptSelf.test()
+//SelectionSort.test()
+//QuickSort.test()
 
 
 // MARK: - Arrays

@@ -46,6 +46,7 @@
 		15C3DDFD2C220FE90035E5F2 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C3DDFC2C220FE90035E5F2 /* TwoSum.swift */; };
 		15CDCF7D2C214E4C00C30B09 /* CourseSchedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15CDCF7C2C214E4C00C30B09 /* CourseSchedule.swift */; };
 		15CDCF7F2C21676A00C30B09 /* Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15CDCF7E2C21676A00C30B09 /* Graph.swift */; };
+		15F39E5E2C3FB96300CC2ACD /* ProductOfArrayExceptSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15F39E5D2C3FB96300CC2ACD /* ProductOfArrayExceptSelf.swift */; };
 		15FD268E2C1EAE2A00AAC39D /* MergeKSortedLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15FD268D2C1EAE2A00AAC39D /* MergeKSortedLists.swift */; };
 /* End PBXBuildFile section */
 
@@ -103,6 +104,7 @@
 		15C3DDFC2C220FE90035E5F2 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		15CDCF7C2C214E4C00C30B09 /* CourseSchedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseSchedule.swift; sourceTree = "<group>"; };
 		15CDCF7E2C21676A00C30B09 /* Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Graph.swift; sourceTree = "<group>"; };
+		15F39E5D2C3FB96300CC2ACD /* ProductOfArrayExceptSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductOfArrayExceptSelf.swift; sourceTree = "<group>"; };
 		15FD268D2C1EAE2A00AAC39D /* MergeKSortedLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeKSortedLists.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -234,6 +236,7 @@
 			children = (
 				15589F592C22D42500FBA551 /* BestTimeToBuyAndSellStock.swift */,
 				15BCD82B2C24CEDB00D737FB /* ContainsDuplicate.swift */,
+				15F39E5D2C3FB96300CC2ACD /* ProductOfArrayExceptSelf.swift */,
 				158184CB2C1D57D500EF378D /* SplitArrayLargestSum.swift */,
 				15C3DDFC2C220FE90035E5F2 /* TwoSum.swift */,
 			);
@@ -348,6 +351,7 @@
 				15CDCF7F2C21676A00C30B09 /* Graph.swift in Sources */,
 				151580832C2B6EEF00AA22E7 /* TrieNode.swift in Sources */,
 				15006E7B2C1D57070028075E /* main.swift in Sources */,
+				15F39E5E2C3FB96300CC2ACD /* ProductOfArrayExceptSelf.swift in Sources */,
 				150EFEE32C27FE260037AD00 /* ValidateBinarySearchTree.swift in Sources */,
 				157C48892C2C8F590013D146 /* MergeSort.swift in Sources */,
 				15BCD82C2C24CEDB00D737FB /* ContainsDuplicate.swift in Sources */,
