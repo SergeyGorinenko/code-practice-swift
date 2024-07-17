@@ -13,7 +13,6 @@ import Foundation
 //HeapSort.test()
 //InsertionSort.test()
 //MergeSort.test()
-ProductOfArrayExceptSelf.test()
 //SelectionSort.test()
 //QuickSort.test()
 
@@ -22,6 +21,8 @@ ProductOfArrayExceptSelf.test()
 
 //BestTimeToBuyAndSellStock.test()
 //ContainsDuplicate.test()
+MaximumSubarray.test()
+//ProductOfArrayExceptSelf.test()
 //SplitArrayLargestSum.test()
 //TwoSum.test()
 
